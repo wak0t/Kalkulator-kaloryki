@@ -1,0 +1,3 @@
+Kalkulator kaloryki 
+
+MIT License
